@@ -53,6 +53,4 @@ WCF Chat Application je distribuovaná aplikace pro výměnu zpráv v reálném 
 - **WCF (Windows Communication Foundation)**: Pro vytvoření distribuované aplikace.
 - **C#**: Hlavní programovací jazyk.
 
-## Licence
 
-Tento projekt je pod licencí MIT. Pro více informací si prosím přečtěte soubor LICENSE.
